@@ -1,0 +1,1 @@
+export const personUrl = '/api/person/v1'
